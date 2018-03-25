@@ -1,0 +1,16 @@
+Inheritance:
+
+    Inheritance in java is a mechanism in which one object acquires all the properties
+    and behaviours of parents object.
+
+    Inheritance represents the "Is A Relationship", also known as parent-child relationship.
+
+    The idea behind inheritance in java is that you can recreate new class that are built upon exist
+    classes. When you inherit from an existing class, and you can add new methods end fields also.
+
+
+Why use inheritance in java?
+
+    == For method overriding (so runtime polymorphism can be achieved)
+    == For code reusability.
+
